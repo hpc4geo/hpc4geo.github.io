@@ -1,0 +1,11 @@
+Sarah C. Penniston-Dorland, Matthew J. Kohn, Craig E. Manning,
+The global range of subduction zone thermal structures from exhumed blueschists and eclogites: Rocks are hotter than models,
+Earth and Planetary Science Letters,
+Volume 428,
+2015,
+Pages 243-254,
+ISSN 0012-821X,
+https://doi.org/10.1016/j.epsl.2015.07.031.
+(https://www.sciencedirect.com/science/article/pii/S0012821X15004665)
+Abstract: The maximum-pressure PT conditions (Pmax–T) and prograde PT paths of exhumed subduction-related metamorphic rocks are compared to predictions of PT conditions from computational thermal models of subduction systems. While the range of proposed models encompasses most estimated Pmax–T conditions, models predict temperatures that are on average colder than those recorded by exhumed rocks. In general, discrepancies are greatest for Pmax<2 GPa, where only a few of the highest-T model paths overlap petrologic observations and model averages are 100–300 °C colder than average conditions recorded by rocks. Prograde PT paths similarly indicate warmer subduction than typical models. Both petrologic estimates and models have inherent biases. Petrologic analysis may overestimate temperatures at Pmax where overprinting occurs during exhumation, although PT paths suggest that relatively warm conditions are experienced by rocks on the prograde subduction path. Models may underestimate temperatures at depth by neglecting shear heating, hydration reactions and fluid and rock advection. Our compilation and comparison suggest that exhumed high-P rocks provide a more accurate constraint on PT conditions within subduction zones, and that those conditions may closely represent the subduction geotherm. While exhumation processes in subduction zones require closer petrologic scrutiny, the next generation of models should more comprehensively incorporate all sources of heat. Subduction-zone thermal structures from currently available models appear to be inaccurate, and this mismatch has wide-reaching implications for our understanding of global geochemical cycles, the petrologic structure of subduction zones, and fluid–rock interactions and seismicity within subduction zones.
+Keywords: subduction; metamorphic petrology; geotherm; eclogite
